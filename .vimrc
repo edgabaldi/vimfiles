@@ -30,3 +30,6 @@ set autoread
 
 " display incomplete commands
 set showcmd
+
+"NERDTree
+nmap <silent> <c-p> : NERDTreeToggle<CR>
