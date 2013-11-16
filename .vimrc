@@ -1,3 +1,6 @@
+" load bundle plugins
+call pathogen#infect()
+
 "Colorscheme
 colorscheme darkblue
 
