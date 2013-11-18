@@ -2,8 +2,10 @@
 call pathogen#infect()
 
 "Colorscheme
-colorscheme darkblue
+set t_Co=256
+colorscheme wombat256mod
 
+" General Settings
 set number
 set colorcolumn=80
 
