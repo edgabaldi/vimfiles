@@ -9,6 +9,9 @@ colorscheme wombat256mod
 set number
 set colorcolumn=80
 
+" enable mouse use in all modes
+set mouse=a
+
 " setting up tab settings
 set tabstop=4
 set shiftwidth=4
